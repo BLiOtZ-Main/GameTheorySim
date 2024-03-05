@@ -1,0 +1,5 @@
+C:\Users\moren\Desktop\econ\EconFinalProject\EconFinalProject\bin\Release\net6.0\app.publish\EconFinalProject.exe
+C:\Users\moren\Desktop\econ\EconFinalProject\EconFinalProject\bin\Release\net6.0\app.publish\EconFinalProject.dll
+C:\Users\moren\Desktop\econ\EconFinalProject\EconFinalProject\bin\Release\net6.0\app.publish\EconFinalProject.deps.json
+C:\Users\moren\Desktop\econ\EconFinalProject\EconFinalProject\bin\Release\net6.0\app.publish\EconFinalProject.runtimeconfig.json
+C:\Users\moren\Desktop\econ\EconFinalProject\EconFinalProject\bin\Release\net6.0\app.publish\EconFinalProject.pdb
